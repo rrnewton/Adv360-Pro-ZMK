@@ -1,1 +1,10 @@
-[]
+[
+	{
+		"code": "spotlight",
+		"name": "spotlight",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	}
+]
